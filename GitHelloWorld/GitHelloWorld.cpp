@@ -7,6 +7,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout<< "Git Hello World!"<<std::endl;
+	std::cout<< "Github test success!"<<std::endl;
+
 	system("pause");
 	return 0;
 }
